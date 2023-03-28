@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_arrar - Print n element of an array of integer
+ * print_array - Print n element of an array of integer
  * @a: Array of integer
  * @n: Number of element of an array of integer
  * :Return: void
